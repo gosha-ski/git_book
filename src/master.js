@@ -3,4 +3,9 @@ class Master{
 	constructor(name){
 		this.name = name
 	}
+
+	someProblemCode(){
+		someProblemCode = null
+		someProblemCode= undefined
+	}
 }

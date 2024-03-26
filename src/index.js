@@ -14,3 +14,7 @@ class Physics{
 class Chemistry{
 	H2O = "water"
 }
+
+function experiment(){
+	return "experiment"
+}

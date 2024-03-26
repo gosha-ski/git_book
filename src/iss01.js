@@ -3,4 +3,8 @@ class Issue01{
 	constructor(id){
 		this.id = id
 	}
+
+	solve(){
+		return "okey"
+	}
 }

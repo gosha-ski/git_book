@@ -5,3 +5,8 @@ function sum(a,b){
 function mult(a, b){
 	return a*b
 }
+
+class Physics{
+	g = 10
+	R = 8.31
+}

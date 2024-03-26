@@ -4,8 +4,4 @@ class Master{
 		this.name = name
 	}
 
-	someProblemCode(){
-		someProblemCode = null
-		someProblemCode= undefined
-	}
 }

@@ -4,8 +4,5 @@ class Master{
 		this.name = name
 	}
 
-	problemFunction(){
-		return new Error()
-	}
-
+	
 }
